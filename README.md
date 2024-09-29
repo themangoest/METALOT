@@ -1,5 +1,5 @@
 # METALOT
-<B>METALOT is about meta modulation in 4U LW Format.</B> It is qn qdqption of WARPS in Serge compatible format
+<B>METALOT is about meta modulation in 4U LW Format.</B> It is an adaption of WARPS in Serge compatible format
 
 
 <B>Firmware update</B>
