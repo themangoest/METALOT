@@ -1,8 +1,8 @@
 # METALOT
-METALOT is about meta modulation in 4U LW Format
+<B>METALOT is about meta modulation in 4U LW Format.</B> It is qn qdqption of WARPS in Serge compatible format
 
 
-
+<B>Firmware update</B>
 Use an ST LINK to flash the unit. First the bootloader and then the METALOT.hex.
 
 Update procedure with Parasite or Symbiote WAV file
@@ -14,7 +14,7 @@ When you are all set, play the firmware update file into the module. While the m
 
 In case the signal level is inadequate, the LEDs will blink in red. Press the INT. OSC button and retry with a correct gain. If this does not help, please retry the procedure from another computer/audio interface, and make sure that no piece of equipment (equalizer, FX processor) is inserted in the signal chain.
 
-The calibration of the METALOT is in 2 phases:
+<B>The calibration of the METALOT is in 2 phases:</B>
 
 PHASE 1:
 
