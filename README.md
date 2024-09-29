@@ -1,6 +1,7 @@
 # METALOT
 <B>METALOT is about meta modulation in 4U LW Format.</B> It is an adaption of WARPS in Serge compatible format
 
+Mouser cart: https://eu.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=4f8fc6c654
 
 <B>Firmware update</B>
 Use an ST LINK to flash the unit. First the bootloader and then the METALOT.hex.
