@@ -28,6 +28,8 @@ Press the INT. OSC button. The ALGORITHM knob blinks in fuchsia.
 Play a C4 note, or send a 3V voltage from your CV source.
 Press the INT. OSC button.
 Calibration is done!
+
+
 PHASE 2:
 
 Connect a constant positive voltage source (for example an ON gate signal, or the output of an offset module, or the CV from a CV/Gate interface when you play the highest note on a keyboard) to the first LEVEL CV input, and leave all the other jacks of the module disconnected.
