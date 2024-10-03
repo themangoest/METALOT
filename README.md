@@ -6,7 +6,7 @@ Mouser cart: https://eu.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=4f
 <B>Firmware update</B>
 Use an ST LINK to flash the unit. First the bootloader and then the METALOT.hex.
 
-Update procedure with Parasite or Symbiote WAV file only after performing both calibrastions here under!
+Update procedure with Parasite or Symbiote WAV file only <B>after</B> performing both calibrations here under!
 
 - Unplug all CV inputs/outputs from the module. Connect the output of your audio interface/sound card to the Carrier audio input (5) input. Power on your modular system with the INT. OSC push-button pressed. The INT. OSC LED will blink in orange.
 
