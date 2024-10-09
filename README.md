@@ -8,7 +8,7 @@ Use an ST LINK to flash the unit. First the bootloader and then the METALOT.hex.
 
 Update procedure with Parasite or Symbiote WAV file only <B>after</B> performing both calibrations here under!
 
-- Unplug all CV inputs/outputs from the module. Connect the output of your audio interface/sound card to the Carrier audio input (5) input. Power on your modular system with the INT. OSC push-button pressed. The INT. OSC LED will blink in orange.
+- Unplug all CV inputs/outputs from the module. Connect the output of your audio interface/sound card to the Carrier audio input. Power on your modular system with the INT. OSC push-button pressed. The INT. OSC LED will blink in orange.
 
 - Make sure that no additional sound (such as email notification sounds, background music etc.) from your computer will be played during the procedure. Make sure that your speakers/monitors are not connected to your audio interface - the noises emitted during the procedure are aggressive and can harm your hearing. On non-studio audio equipment (for example the line output from a desktop computer), you might have to turn up the gain to the maximum.
 
