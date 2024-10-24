@@ -1,6 +1,8 @@
 # METALOT
 <B>METALOT is about meta modulation in 4U LW Format.</B> It is an adaption of WARPS in Serge compatible format
 
+![alt text]{https://github.com/themangoest/METALOT/blob/main/METALOT.jpg)
+
 Mouser cart: [https://eu.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=4f8fc6c654](https://www.mouser.be/api/CrossDomain/GetContext?syncDomains=www&returnUrl=https%3a%2f%2fwww.mouser.com%2fProjectManager%2fProjectDetail.aspx%3fAccessID%3d4f8fc6c654&async=False&setPrefSub=False&clearPrefSub=False)
 
 <B>Firmware update</B>
